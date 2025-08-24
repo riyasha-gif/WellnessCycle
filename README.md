@@ -20,10 +20,10 @@
     .env file for securely storing API keys (not uploaded to GitHub for safety)
 
 📂 Project Structure
-    ├── app.py          # Main web app code  
-    ├── README.md       # Project documentation  
-    ├── LICENSE         # Open-source license  
-    └── .env            # Secret keys (excluded from GitHub)  
+        ├── app.py          # Main web app code  
+        ├── README.md       # Project documentation  
+        ├── LICENSE         # Open-source license  
+        └── .env            # Secret keys (excluded from GitHub)  
 
 ⚡ Usage
 
