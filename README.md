@@ -1,5 +1,5 @@
 # WellnessCycle
-This project is a Python app designed to support women’s health by predicting the next period date, estimating PCOS/PCOD likelihood, calculating BMI &amp; ideal weight, and providing a customized diet chart for better lifestyle management.
+A Python app designed to support women’s health by predicting the next period date, estimating PCOS/PCOD likelihood, calculating BMI &amp; ideal weight, and providing a customized diet chart for better lifestyle management.
 
 ✨ Features
 
@@ -20,6 +20,7 @@ This project is a Python app designed to support women’s health by predicting 
     .env file for securely storing API keys (not uploaded to GitHub for safety)
 
 📂 Project Structure
+
         ├── app.py          # Main web app code  
         ├── README.md       # Project documentation  
         ├── LICENSE         # Open-source license  
