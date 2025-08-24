@@ -17,14 +17,13 @@ A Python app designed to support women’s health by predicting the next period 
     
     Streamlit (for building the web app)
     
-    .env file for securely storing API keys (not uploaded to GitHub for safety)
 
 📂 Project Structure
 
-        ├── app.py          # Main web app code  
-        ├── README.md       # Project documentation  
-        ├── LICENSE         # Open-source license  
-        └── .env            # Secret keys (excluded from GitHub)  
+        ├── health_tracker.py          # Main web app code  
+        ├── README.md                  # Project documentation  
+        ├── LICENSE                    # Open-source license  
+         
 
 ⚡ Usage
 
@@ -40,9 +39,6 @@ A Python app designed to support women’s health by predicting the next period 
     
     streamlit run health_tracker.py
 
-🔒 Note on Security
-
-    The .env file is intentionally not uploaded to GitHub to protect sensitive API keys. If you want to run the app, create your own .env file and add the required keys.
 
 🧑‍🤝‍🧑 Contribution
 
